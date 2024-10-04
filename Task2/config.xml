@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <SerialPort>
+        <PortName>/dev/cu.usbserial-1230</PortName>
+        <BaudRate>9600</BaudRate>
+    </SerialPort>
+</Configuration>
